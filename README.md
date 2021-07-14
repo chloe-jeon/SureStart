@@ -17,3 +17,9 @@ Here's a dataset I found sorting emails into "ham" or spam. https://www.kaggle.c
 I think simple algorithms like the decision tree we made for practice would be rather ineffective at such a complex problem, seeing as how currently-implemented algorithms do absolutely terribly at this task. Rather, I think that a more complex algorithm involving natural language processing and deep learning might do better.
 
 As a side note, I think there ought to be an option to enable spam algorithms to become tailored to individuals' preferences. What some people consider spam may not be necessarily identical to another's idea. Some are clearly important or spam, but I think there is an enormous gray area.
+
+#### Day 7, July 12
+##### What are “Tensors” and what are they used for in Machine Learning?
+Tensors are a way to store data in multiple "dimensions," with scalars being a "0-dimensional tensor," vectors being a "1-dimensional tensor," matrices being a "2-dimensional tensor," and so on. Tensors are used to represent data, which can be used by machine learning libraries like TensorFlow to learn patterns.
+##### What did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial?
+One thing I noticed was that while the TensorFlow tutorial and the Keras tutorial both ended up teaching us how to make an ML model, the Keras code was a lot more intuitive and made more sense.
