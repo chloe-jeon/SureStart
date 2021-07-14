@@ -23,3 +23,6 @@ As a side note, I think there ought to be an option to enable spam algorithms to
 Tensors are a way to store data in multiple "dimensions," with scalars being a "0-dimensional tensor," vectors being a "1-dimensional tensor," matrices being a "2-dimensional tensor," and so on. Tensors are used to represent data, which can be used by machine learning libraries like TensorFlow to learn patterns.
 ##### What did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial?
 One thing I noticed was that while the TensorFlow tutorial and the Keras tutorial both ended up teaching us how to make an ML model, the Keras code was a lot more intuitive and made more sense.
+
+#### Day 8, July 13
+Although I already knew about activation functions and problems like vanishing/exploding gradients, I never really understood why exactly vanishing/exploding gradients exist until now. I learned about how activation functions mitigate this problem by fixing values between 0 and 1 (or -1 and 1), though it isn't a perfect solution for deep networks.
