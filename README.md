@@ -26,3 +26,6 @@ One thing I noticed was that while the TensorFlow tutorial and the Keras tutoria
 
 #### Day 8, July 13
 Although I already knew about activation functions and problems like vanishing/exploding gradients, I never really understood why exactly vanishing/exploding gradients exist until now. I learned about how activation functions mitigate this problem by fixing values between 0 and 1 (or -1 and 1), though it isn't a perfect solution for deep networks.
+
+#### Day 9, July 14
+I learned that maxpooling is not the only type of pooling used for CNNs, as there is also average pooling. I also learned about bias a variance and how they relate to overfitting and underfitting.
