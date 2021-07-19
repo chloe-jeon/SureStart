@@ -34,5 +34,8 @@ I learned that maxpooling is not the only type of pooling used for CNNs, as ther
 ##### How do you think Machine Learning or AI concepts were utilized in the design of this game?
 The creators of the game specifically chose the results of the "AI" to reflect how real AI models might learn and then exaggerate trends in the dataset that ought not to be used as a determining factor in the applicants' qualification for a job position. In this example, the "AI" "learned" that people from the Orange region (and therefore colored orange) tended to be slightly more likely to be qualified for a job position, and since this was the most reliable factor for the AI to latch onto, it exaggerated the results, forming a major discriminatory boundary.
 
-#### Can you give a real-world example of a biased machine learning model, and share your ideas on how you make this model more fair, inclusive, and equitable? Please reflect on why you selected this specific biased model.
+##### Can you give a real-world example of a biased machine learning model, and share your ideas on how you make this model more fair, inclusive, and equitable? Please reflect on why you selected this specific biased model.
 The first one that comes to mind was the iPhone photo labelling model, which mistakenly labelled a person with dark skin as a gorilla (and of course causing an uproar). This was likely due to a lack of diversity in the dataset of human faces (with a large proportion of lighter-skinned people), so a possible "fix" would have been to equalize the dataset, either by getting more data or removing data so that each racial group are represented fairly equally in the dataset.
+
+#### Day 11, July 16
+no reflections
