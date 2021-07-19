@@ -38,4 +38,4 @@ The creators of the game specifically chose the results of the "AI" to reflect h
 The first one that comes to mind was the iPhone photo labelling model, which mistakenly labelled a person with dark skin as a gorilla (and of course causing an uproar). This was likely due to a lack of diversity in the dataset of human faces (with a large proportion of lighter-skinned people), so a possible "fix" would have been to equalize the dataset, either by getting more data or removing data so that each racial group are represented fairly equally in the dataset.
 
 #### Day 11, July 16
-no reflections
+I learned about the overall architecture of a typical CNN model and why batches of images are usually fed into the CNN at once, saving computational power.
