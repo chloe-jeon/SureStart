@@ -39,3 +39,6 @@ The first one that comes to mind was the iPhone photo labelling model, which mis
 
 #### Day 11, July 16
 I learned about the overall architecture of a typical CNN model and why batches of images are usually fed into the CNN at once, saving computational power.
+
+#### Day 15, July 20
+ReLU is a very popular activation function for hidden layers, particularly in CNNs. It is computationally easy because the function is simple. It is also beneficial in that it creates a lot of sparsity (0-valued outputs), which helps better streamline the outputs of the machine learning model. 
