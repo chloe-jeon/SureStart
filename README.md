@@ -48,3 +48,6 @@ Today, I learned about image classification and the various challenges that come
 
 #### Day 21, July 26
 Today, I learned about autoencoders, which are a form of unsupervised learning that attempt to reconstruct images similar to the original dataset by first encoding then decoding information, with an information bottleneck in the middle.
+
+#### Day 22, July 27
+Today, I learned about the challenges with detecting emotion through AI, as it is multi-faceted and involves many cues beyond just the words we use, including body language, tone of voice, and context. I also learned about affective AI, which tries to overcome these challenges to detect mental states such as drowsiness while driving.
