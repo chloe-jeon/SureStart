@@ -45,3 +45,6 @@ ReLU is a very popular activation function for hidden layers, particularly in CN
 
 #### Day 17, July 22
 Today, I learned about image classification and the various challenges that come with it, such as intra-class variation, viewpoint variation, occlusion, illumination, and a cluttered image. I also learned about image classification vs. object localization vs. object detection.
+
+#### Day 21, July 26
+Today, I learned about autoencoders, which are a form of unsupervised learning that attempt to reconstruct images similar to the original dataset by first encoding then decoding information, with an information bottleneck in the middle.
