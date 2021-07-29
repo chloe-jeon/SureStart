@@ -51,3 +51,6 @@ Today, I learned about autoencoders, which are a form of unsupervised learning t
 
 #### Day 22, July 27
 Today, I learned about the challenges with detecting emotion through AI, as it is multi-faceted and involves many cues beyond just the words we use, including body language, tone of voice, and context. I also learned about affective AI, which tries to overcome these challenges to detect mental states such as drowsiness while driving.
+
+#### Day 23, July 28
+I learned about natural language processing (NLP), which are usually done by RNNs or similar architectures. I also learned about the processing that occurs before even running the model, such as data preprocessing and feature extraction. Since language is complicated, simplifying the data through lemmatization or extracting important features (vectorizing the sentence) via methods such as bag of words, TF-IDF, or word2vec can make it easier for the model to learn from the data.
