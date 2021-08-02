@@ -51,3 +51,12 @@ Today, I learned about autoencoders, which are a form of unsupervised learning t
 
 #### Day 22, July 27
 Today, I learned about the challenges with detecting emotion through AI, as it is multi-faceted and involves many cues beyond just the words we use, including body language, tone of voice, and context. I also learned about affective AI, which tries to overcome these challenges to detect mental states such as drowsiness while driving.
+
+#### Day 23, July 28
+I learned about natural language processing (NLP), which are usually done by RNNs or similar architectures. I also learned about the processing that occurs before even running the model, such as data preprocessing and feature extraction. Since language is complicated, simplifying the data through lemmatization or extracting important features (vectorizing the sentence) via methods such as bag of words, TF-IDF, or word2vec can make it easier for the model to learn from the data.
+
+#### Day 24, July 29
+I learned more about object detection and computer vision. What I found most interesting was the sheer number of different ways a person can implement computer vision, from simple image classification to object segmentation and even object tracking. This could also be extended to image generation, style transfer, colorization, and super-resolution. I also learned about GANs, which I think is a brilliant idea, as the model is, in a sense, training itself.
+
+#### Day 25, July 30
+We went through an overview of what we had learned so far, which I found very useful in coalescing four weeks' worth of materials into a firm idea in my head. I also gained valuable lessons in entrepreneuring, with the most valuable take-away being, in my opinion, to try to find problems that relate to many people, not just yourself and close family and friends, as this will make the end product meaningful to more than just its creator.
