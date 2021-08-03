@@ -60,3 +60,6 @@ I learned more about object detection and computer vision. What I found most int
 
 #### Day 25, July 30
 We went through an overview of what we had learned so far, which I found very useful in coalescing four weeks' worth of materials into a firm idea in my head. I also gained valuable lessons in entrepreneuring, with the most valuable take-away being, in my opinion, to try to find problems that relate to many people, not just yourself and close family and friends, as this will make the end product meaningful to more than just its creator.
+
+#### Day 28, August 2
+Today, we didn't exactly learn much, but we spent much of the day brainstorming ideas for our Create-a-Thon project, discussing problems, potential AI-related solutions to those problems, and pros and cons to each problem and solution.
