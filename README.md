@@ -63,3 +63,6 @@ We went through an overview of what we had learned so far, which I found very us
 
 #### Day 28, August 2
 Today, we didn't exactly learn much, but we spent much of the day brainstorming ideas for our Create-a-Thon project, discussing problems, potential AI-related solutions to those problems, and pros and cons to each problem and solution.
+
+#### Day 29, August 3
+Today, I learned about identifying the exact problem that needs to be addressed and asking the right question. For example, there was the example of Henry Ford asking "What do you want?" and receiving "faster horses" for a response. Yet the real answer was "faster transportation," which Ford then solved with his Model T car.
