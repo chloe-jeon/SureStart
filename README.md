@@ -66,3 +66,6 @@ Today, we didn't exactly learn much, but we spent much of the day brainstorming 
 
 #### Day 29, August 3
 Today, I learned about identifying the exact problem that needs to be addressed and asking the right question. For example, there was the example of Henry Ford asking "What do you want?" and receiving "faster horses" for a response. Yet the real answer was "faster transportation," which Ford then solved with his Model T car.
+
+#### Day 30, August 4
+Today, I learned about what it means to design a product and how to go about creating the design. One thing that stood out to me was the advice to start with the low-fidelity sketch first to get a general, big-picture idea of how it works before working out the high-fidelity details.
